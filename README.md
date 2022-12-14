@@ -27,3 +27,12 @@ Boston house prices dataset
         - MEDV     Median value of owner-occupied homes in $1000's
 
     :Missing Attribute Values: None
+
+
+ :Creator: Harrison, D. and Rubinfeld, D.L.
+
+This is a copy of UCI ML housing dataset.
+https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+
+
+This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
